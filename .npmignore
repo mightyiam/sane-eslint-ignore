@@ -1,0 +1,4 @@
+**/*
+!lib/**/*.json
+!lib/**/*.js
+lib/**/*.test.js
