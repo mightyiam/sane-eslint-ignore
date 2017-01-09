@@ -1,6 +1,6 @@
 {
   "name": "sane-eslint-ignore",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sane ESLint ignore patterns",
   "main": "lib/index.json",
   "scripts": {
