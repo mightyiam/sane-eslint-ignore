@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/mightyiam/sane-eslint-ignore#readme",
   "devDependencies": {
-    "standard": "^8.6.0"
+    "standard": "^9.0.2"
   }
 }
