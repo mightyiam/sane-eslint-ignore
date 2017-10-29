@@ -16,7 +16,7 @@
     "sane",
     "eslint",
     "ignore",
-    "patters"
+    "patterns"
   ],
   "author": "Shahar Or <mightyiampresence@gmail.com> (mightyiam)",
   "license": "ISC",
